@@ -73,7 +73,7 @@ BACA karakter per kolom untuk menyusun teks asli
 OUTPUT hasil enkripsi dan dekripsi
 END
 ```
-## Penjelasan Pseudocode Caesar Cipher
+## Penjelasan Pseudocode Scytale Cipher
 
 ### - Program dimulai
 ```
